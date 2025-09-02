@@ -2,7 +2,7 @@
 
 Hi, I’m Rigo.
 
-- 🎓 I study Computer Science @ San Francisco State University🐊
+- 🎓 I'm studying Computer Science @ San Francisco State University🐊
 - 💻 Aspiring software engineer exploring aerospace🚀, finance🏛, and tech/science⚗️
 - 💊 Licensed Pharmacy Technician
 - 🌱 Striving for a better tomorrow
